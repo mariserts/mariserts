@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+## Get in touch
+- https://www.linkedin.com/in/maris-erts-61923865/
 
 <!--
 **mariserts/mariserts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
